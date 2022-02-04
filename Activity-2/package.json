@@ -1,0 +1,15 @@
+{
+  "name": "activity-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "searchObjectValue.js",
+  "scripts": {
+    "start": "node TempTracker.js",
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
