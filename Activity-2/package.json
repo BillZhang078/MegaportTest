@@ -4,7 +4,7 @@
   "description": "",
   "main": "searchObjectValue.js",
   "scripts": {
-    "start": "node TempTracker.js",
+    "start": "node searchObjectValue.js",
     "test": "jest --coverage"
   },
   "author": "",
